@@ -17,6 +17,7 @@ cd YouTube_BOT
 python FATBOT.py
 
 
+For enterprise Edition contact me on bigup401@gmail.com with free support and setup 
 
 
 
